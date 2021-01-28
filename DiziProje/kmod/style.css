@@ -1,0 +1,39 @@
+body{
+    background-color: #eee;
+    color:#222;
+    transition: 300ms all;
+
+}
+
+body.dark{
+    background-color:#222;
+    color: #fff;
+}
+
+.mode-control input{
+    position: absolute;
+    opacity: 0;
+}
+
+.mode-control span:nth-of-type(2){
+    display: none;
+}
+
+.mode-control input:checked + span {
+    display: none;
+}
+.mode-control input:checked + span + span{
+    display: inline-block;
+}
+.mode-control span{
+    display: inline-block;
+    padding: 0 20px;
+    line-height: 30px;
+    border-radius: 30px;
+    background-color: #222;
+    color: #fff;
+}
+body.dark .mode-control span{
+    background-color: #fff;
+    color:#222 ;
+}
