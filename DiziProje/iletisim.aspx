@@ -12,10 +12,9 @@
             <div class="contact-info">
                 <h2>İletişim</h2>
                 <p>
-                    Burası benim iletişim sayfam nedlkewmd lek ewmdş lkewmlfewmlmfen
-                    fkewmşf newfşmewşofn oewnfewoşnf oewşnfewoşınf oewnfoewnfoewnf oewnf şwenfoewnfwe
-                    fnewonfweoşn fşoewn foewn foewnş fewınf oewn foewnfoewnfowefnweoışfnweş
-                    ewf oewnf oewnfoewn foewnfıewn foıewnf owenfoewn
+                    Kısa Kodlar Ailesi Olarak Size Hitmet vermekten Memnuniyet Duyarız:)
+                    <br />
+                    kisakodlar@gmail.com
                 </p>
             </div>
             <div class="contact-details">

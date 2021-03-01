@@ -1,11 +1,5 @@
 ﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Login.aspx.cs" Inherits="DiziProje.Login" %>
 
-<!--A Design by W3layouts
-   Author: W3layout
-   Author URL: http://w3layouts.com
-   License: Creative Commons Attribution 3.0 Unported
-   License URL: http://creativecommons.org/licenses/by/3.0/
-   -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -55,7 +49,7 @@
 
         </div>
         <div class="art-left-w3ls">
-            <h1 class="header-w3ls">Fili & Dizi Admin Paneline Hoşgeldin!
+            <h1 class="header-w3ls">Filim & Dizi Admin Paneline Hoşgeldin!
             </h1>
         </div>
     </div>
